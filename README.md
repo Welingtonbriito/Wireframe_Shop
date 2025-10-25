@@ -43,12 +43,6 @@ O wireframe cobre as seguintes telas principais, essenciais para uma experiênci
 
 ---
 
-## 📝 Licença
-
-O projeto está licenciado sob a licença **MIT** (ou outra licença de sua preferência). Consulte o arquivo `LICENSE` para mais detalhes.
-
----
-
 ## 👤 Autor
 
 * **Welington Brito**
